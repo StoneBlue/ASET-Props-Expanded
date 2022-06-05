@@ -2,17 +2,19 @@
       A small expansion mod that adds a few original, limited-release ASET props
 
  Created by Alexustas
-    Included props:
+   Modified by Stone_Blue (Extracted, modified, & released as stand-alone props which can be used in any IVA)
+   
+ Included props:
       - Power Seat V3- Originally released & included in ALCOR Advanced IVA;
       - Two HUDs- Originally released & included in Exploration Rover System by A.S.E.T.
     
-	Modified by Stone_Blue (Extracted, modified, & released as stand-alone props which can be used in any IVA)
+	
 
  Required:
 
-	Module Manager
+   Module Manager
 
-	RPM Adopted
+   RPM Adopted
 
 	
 "ALCOR Advanced IVA" by Alexustas is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
