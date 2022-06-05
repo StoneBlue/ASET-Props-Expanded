@@ -2,7 +2,8 @@
    A small expansion mod that adds a few original, limited-release ASET props
 
 # Created by Alexustas
-   Modified by Stone_Blue (Extracted, modified, & released as stand-alone props which can be used in any IVA)
+   Modified by Stone_Blue
+   (Extracted, modified, & released as stand-alone props which can be used in any IVA)
    
 # Included props:
    - Power Seat V3- Originally released & included in ALCOR Advanced IVA;
